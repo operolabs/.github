@@ -18,7 +18,7 @@ Browserstation is our first open source project. We built Browserstation when we
 
 ## Opero-1
 
-Opero-1-30B is an in-house trained for completing tasks on the browser. We will release more information about this soon.
+Opero-1-30B is an in-house model trained for completing tasks on the browser. We will release more information about this soon.
 
 ## Contributions
 
