@@ -14,7 +14,7 @@ Opero Labs develops browser agents by working on both the model and the infrastr
 
 ## [Browserstation](https://github.com/operolabs/browserstation)
 
-Browserstation is our first open source project. We built Browserstation when we noticed existing infrastructure couldn't meet the scalability needed to train Opero-1.It gives agents and scrapers full browser capabilities, with the ability to debug locally and scale to production without being locked into proprietary infrastructure.
+Browserstation is our first open source project. We built Browserstation when we noticed existing infrastructure couldn't meet the scalability needed to train Opero-1. It gives agents and scrapers full browser capabilities, with the ability to debug locally and scale to production without being locked into proprietary infrastructure.
 
 ## Opero-1
 
