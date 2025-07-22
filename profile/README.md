@@ -5,7 +5,7 @@
 
 # Welcome to [Opero Labs](https://operolabs.com)!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/operolabs?style=social)](https://x.com/operolabs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/operolabs?style=social)](https://x.com/intent/user?screen_name=operolabs)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/opero-labs)
 
 ## What does Opero Labs do?
